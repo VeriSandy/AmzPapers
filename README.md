@@ -1,1 +1,1 @@
-# AmPapers
+# AmzPapers
