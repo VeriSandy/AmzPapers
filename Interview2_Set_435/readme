@@ -11,6 +11,8 @@ Now, they have to settle up with minimum number of transactions. Also, you have 
 For example – If B owes A Rs. 200 : B->A = 200. 
 Similarly, if C owes B Rs. 200 : C->B= 200.
 So the minimum number of transactions is 1 and that should be : C->A = Rs. 200
+https://www.geeksforgeeks.org/minimize-cash-flow-among-given-set-friends-borrowed-money/
+
 
 4. Design Question - 
 There is a passport office with 3 desks (Desk A, Desk B, Desk C) and 1 token machine. 
