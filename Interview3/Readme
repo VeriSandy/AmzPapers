@@ -3,3 +3,6 @@ https://www.geeksforgeeks.org/amazon-interview-experience/
 
 1. Elements that occurred only once in the array
 https://www.geeksforgeeks.org/elements-that-occurred-only-once-in-the-array/
+
+2. Sum of key elements in individual path of BST (just say this sum as path_ weight) and threshold path weight is given as 
+input. If any of the pathweight is less than oversold path weight then that should be deleted from the tree.
