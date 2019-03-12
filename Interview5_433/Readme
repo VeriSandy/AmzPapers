@@ -1,0 +1,16 @@
+//Amazon Interview Experience | Set 433 (SDE 2 for Experienced)
+//https://www.geeksforgeeks.org/amazon-interview-experience-set-433-sde-2-for-experienced/
+
+1. What is caching and how it is used. Types of cache eviction policies. Any cache you might have used for your project. Explain.
+Implement LRU cache. (using circular dll and map)
+https://www.geeksforgeeks.org/lru-cache-implementation/
+
+2. Design gaming platform. A number of games can be hosted on this platform. User can login and select a particular game. Discussed both HLD and LLD.
+
+3. Search an element in a sorted rotated array in a single pass.
+https://www.geeksforgeeks.org/search-an-element-in-a-sorted-and-pivoted-array/
+
+4. Extension of rat in a maze problem. Maximum cheese the rat can eat in a maze.
+https://www.geeksforgeeks.org/rat-in-a-maze-backtracking-2/
+
+5. Discussed in detail project from all my previous company.
