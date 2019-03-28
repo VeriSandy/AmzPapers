@@ -1,4 +1,14 @@
-Amazon Interview Experience | Set 432 (For SDE-2)
-https://www.geeksforgeeks.org/amazon-interview-experience-set-432-sde-2/
+//Amazon Interview Experience | Set 432 (For SDE-2)
+//https://www.geeksforgeeks.org/amazon-interview-experience-set-432-sde-2/
 
-1. 
+1. Given a matrix of ‘0’ and ‘1’, find the largest Iceland (i.e area of  ‘1’s)
+https://leetcode.com/problems/max-area-of-island/description/
+Similar concept -- 
+https://www.geeksforgeeks.org/find-number-of-islands/
+https://www.geeksforgeeks.org/find-length-largest-region-boolean-matrix/
+
+2. Design a data structure with constant time for insert, delete, search and getRandom.
+https://www.geeksforgeeks.org/design-a-data-structure-that-supports-insert-delete-search-and-getrandom-in-constant-time/
+
+3. Given an array of integers  and a window size ‘k’, find first negative number for each possible window in the array.
+https://www.geeksforgeeks.org/first-negative-integer-every-window-size-k/
