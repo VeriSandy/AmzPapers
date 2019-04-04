@@ -9,7 +9,8 @@ https://www.geeksforgeeks.org/amazon-interview-experience-set-432-sdet-off-campu
 3. Given a time  hh:mm format. We have the find out the bigger angle between the hour and minute hands.
    https://www.geeksforgeeks.org/calculate-angle-hour-hand-minute-hand/
 4. Convert a binary search tree to Greater sum tree. 
-   https://www.geeksforgeeks.org/transform-bst-sum-tree/. Asked both recursive and iterative solutions.
+   https://www.geeksforgeeks.org/transform-bst-sum-tree/. 
+   Both recursive and iterative solutions.
 5. Print a matrix in spiral order. 
    https://www.geeksforgeeks.org/print-a-given-matrix-in-spiral-form/
 6. Given two arrays. One is for tasks (Processes) and each element depicts the amount of cores required to run the task. 
