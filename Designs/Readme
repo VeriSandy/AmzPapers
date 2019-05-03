@@ -1,0 +1,4 @@
+/*https://www.geeksforgeeks.org/amazon-interview-experience-set-431-sde2/*/
+1. Design google’s Autocomplete feature.
+2. Design BookMyShow. All the microservices which are involved their APIs and HLL design was expected.
+3. How will you resolved the concurrency issue when 2 customers try to book same seat.
