@@ -1,0 +1,10 @@
+//Amazon Interview Experience | Set 430 (For SDE2)
+//https://www.geeksforgeeks.org/amazon-interview-experience-set-430-sde2/
+
+
+1. Given an array and an operation -> foo(index, value), the value can be either 1 or -1, 
+if foo(index, value) is called, it will add ‘value’ to all elements from index till end of the array, 
+find minimum number of operation to make all array elements 0.
+2. Don’t remember completely, but it was something like finding a deadlock in a BST.
+3. https://www.geeksforgeeks.org/trapping-rain-water/
+4. https://www.geeksforgeeks.org/longest-possible-chunked-palindrome/
