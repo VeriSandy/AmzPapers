@@ -2,3 +2,8 @@
 1. Design google’s Autocomplete feature.
 2. Design BookMyShow. All the microservices which are involved their APIs and HLL design was expected.
 3. How will you resolved the concurrency issue when 2 customers try to book same seat.
+
+/* http://whartonmagazine.com/blogs/learn-from-amazons-leadership-principles/#sthash.6FmZ5BvD.dpbs */
+4. Design a scalable meeting room booking system.
+5. Design a load balancer’s algorithm so that it redirects the traffic between three services s1, s2, s3 by 50%, 30% and 20%. 
+   further clause added to handle various clients calling to specific services.
