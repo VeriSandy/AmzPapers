@@ -1,10 +1,37 @@
 //Amazon Interview Experience | Set 430 (For SDE2)
 //https://www.geeksforgeeks.org/amazon-interview-experience-set-430-sde2/
 
-
 1. Given an array and an operation -> foo(index, value), the value can be either 1 or -1, 
 if foo(index, value) is called, it will add ‘value’ to all elements from index till end of the array, 
 find minimum number of operation to make all array elements 0.
+
+Idea -- An idea can be here 
+If numbers are >0 
+Sort number in increasing order, so keep decreasing eqaul to element' value at any index from start to end
+
+1, 5, 7, 9 
+0, 4, 6, 8  ==> dec 1(as at index 0) from all ele and move to next 
+0, 0, 2, 4  ==> dec 4(as at index 1) from all elm and move to next
+0, 0, 0, 2  ==> dec 2(as at index 2) from all elm and move to next
+0, 0, 0, 0  ==> dec 2(as at index 3) from all elm and move to next
+min operations == max value in array
+
+if number are <0 
+then put them in dec order and keep increasing 
+-1 -7 -9 ==> min operation 9
+
+if mixture of negative and positive 
+
+put them in inc order and then count
+
+Similar -- https://www.geeksforgeeks.org/minimum-number-of-operations-on-an-array-to-make-all-elements-0/
+An 
+
 2. Don’t remember completely, but it was something like finding a deadlock in a BST.
-3. https://www.geeksforgeeks.org/trapping-rain-water/
-4. https://www.geeksforgeeks.org/longest-possible-chunked-palindrome/
+==> Couldn't find anything related.
+
+3. Trapping Rain Water
+https://www.geeksforgeeks.org/trapping-rain-water/
+
+4. Longest Possible Chunked Palindrome
+https://www.geeksforgeeks.org/longest-possible-chunked-palindrome/
